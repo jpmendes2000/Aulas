@@ -1,18 +1,20 @@
-## Getting Started
+<h1>Variaveis e conversão por casting</h1>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+<ul>
+    <li><a href="https://www.w3schools.com/java/java_type_casting.asp">Conversão casting</a></li>
+</ul>
 
-## Folder Structure
+## explicação casting
 
-The workspace contains two folders by default, where:
+<p>
+Widening Casting (automatically) - converting a smaller type to a larger type size <br>
+byte -> short -> char -> int -> long -> float -> double
+</p>
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+<br>
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+<p>
+Narrowing Casting (manually) - converting a larger type to a smaller size type <br>
+double -> float -> long -> int -> char -> short -> byte
+</p>
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
