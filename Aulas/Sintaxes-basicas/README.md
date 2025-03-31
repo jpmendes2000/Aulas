@@ -5,4 +5,5 @@
   <li>int</li>
   <li>float</li>
   <li>double</li>
+  <li>boolean</li>
 </ul>
