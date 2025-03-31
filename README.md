@@ -2,10 +2,10 @@
 
 <h2 align="center">Projetos importantes</h2>
 <ul>
-  <li>Sintaxes Básicas</li>
-  <li>Variaveis</li>
-  <li>Operações Matemáticas</li>
-  <li>Controles de Fluxo</li>
+  <li><a href="https://github.com/jpmendes2000/Aulas/tree/main/Aulas/1-Sintaxes-basicas">Sintaxes Básicas</a></li>
+  <li><a href="https://github.com/jpmendes2000/Aulas/tree/main/Aulas/2-Variaveis">Variaveis</a></li>
+  <li><a href="https://github.com/jpmendes2000/Aulas/tree/main/Aulas/3-Operacoes-matematicas">Operações Matemáticas</a></li>
+  <li><a href="https://github.com/jpmendes2000/Aulas/tree/main/Aulas/4-Controle-de-fluxo">Controles de Fluxo</a></li>
   <li>Classes e objetos</li>
   <li>Herança</li>
   <li>Polimorfismo</li>
