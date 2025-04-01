@@ -1,18 +1,3 @@
-## Getting Started
+## <h1 align="center">Polimorfismo</h1>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+<p>O polimorfismo geralmente é usado junto com a <a href="https://github.com/jpmendes2000/Aulas/tree/main/Aulas/6-heranca">herança</a>. Uma subclasse pode herdar um método da superclasse, mas também pode modificá-lo para se comportar de forma diferente.</p>
