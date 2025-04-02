@@ -6,7 +6,7 @@
         <li><a href="https://github.com/jpmendes2000/Aulas/tree/main/Aulas/2-Variaveis">Variaveis</a></li>
         <li><a href="https://github.com/jpmendes2000/Aulas/tree/main/Aulas/3-Operacoes-matematicas">Operações Matemáticas</a></li>
         <li><a href="https://github.com/jpmendes2000/Aulas/tree/main/Aulas/4-Controle-de-fluxo">Controles de Fluxo</a></li> 
-        <li>Métodos e Funções</li> <br><br>
+        <li><a href="https://github.com/jpmendes2000/Aulas/tree/main/Aulas/10-metodos-e-funcoes">Métodos e Funções</a></li> <br><br>
   <li><h2>Programação Orientada a Objetos (POO)</h2></li>
         <li>Classes e objetos</li>
         <li><a href="https://github.com/jpmendes2000/Aulas/tree/main/Aulas/6-heranca">Herança</a></li>
