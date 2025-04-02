@@ -4,7 +4,7 @@
   <li><h2>Java Básico</h2></li>
         <li><a href="https://github.com/jpmendes2000/Aulas/tree/main/Aulas/1-Sintaxes-basicas">Sintaxes Básicas</a></li>
         <li><a href="https://github.com/jpmendes2000/Aulas/tree/main/Aulas/2-Variaveis">Variaveis</a></li>
-        <li><a href="https://github.com/jpmendes2000/Aulas/tree/main/Aulas/3-Operacoes-matematicas">Operações Matemáticas</a></li>
+        <li><a href="https://github.com/jpmendes2000/Aulas/tree/main/Aulas/3-Operacoes-matematicas"><span title="Reciclagem de um projeto de calculadora simples">Operações Matemáticas</span></a></li>
         <li><a href="https://github.com/jpmendes2000/Aulas/tree/main/Aulas/4-Controle-de-fluxo">Controles de Fluxo</a></li> 
         <li><a href="https://github.com/jpmendes2000/Aulas/tree/main/Aulas/10-metodos-e-funcoes">Métodos e Funções</a></li> <br><br>
   <li><h2>Programação Orientada a Objetos (POO)</h2></li>
